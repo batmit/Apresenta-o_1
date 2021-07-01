@@ -1,0 +1,14 @@
+* {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+body {
+    border: 1px solid black;
+    border-radius: 0.8rem;
+}
+
+header {
+    font-family: 'Ubuntu', sans-serif;
+}
